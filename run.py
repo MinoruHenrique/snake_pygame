@@ -1,4 +1,4 @@
-from bin import *
+from bin.game import *
 if __name__=="__main__":
-    game.run()
+    run()
     pass
